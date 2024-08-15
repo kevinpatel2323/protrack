@@ -4,7 +4,6 @@ import {
   IsDecimal,
   IsDate,
   IsNotEmpty,
-  IsOptional,
   IsEmail,
   MinLength,
   Matches,
